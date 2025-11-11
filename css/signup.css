@@ -227,3 +227,23 @@ body {
     width: 100%;
   }
 }
+
+.password-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.password-wrapper input {
+  width: 100%;
+  padding-right: 2.5rem; 
+}
+
+.toggle-password {
+  position: absolute;
+  right: 0.8rem;
+  cursor: pointer;
+  user-select: none;
+  font-size: 1.2rem;
+  transition: opacity 0.2s;
+}
