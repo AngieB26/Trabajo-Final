@@ -102,7 +102,7 @@ Desean orientación clara, práctica y libre de tecnicismos para tomar decisione
 | **Milenko Cayanchi Ávila** | UI/UX — Style Guidelines | Ing. de Software |
 | **Schneider Delgado Carrasco** | UI Prototyping & Wireflow | Ing. de Software |
 | **Jonatan Elías Rivera** | Product Backlog & Impact Mapping | Ing. de Sistemas de Información |
-| **Pool Fernández Galarza** | Arquitectura de Información | Ing. de Sistemas |
+| **Pool Fernández Galarza** | Arquitectura de Información | Ing. de Sistemas de Información |
 | **Carlos López Goitia** | Mobile UI Design & Mockups | Ing. de Software |
 | **Manuel Molina Vásquez** | User Stories & To-Be Mapping | Ing. de Software |
 
